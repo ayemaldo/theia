@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>
+      Los Angeles Football Club
+    </title>
+  </head>
+  <h1>Los Angeles Football Club</h1>
+  <body>
+    <img src ="https://la-mp7static.mlsdigital.net/elfinderimages/Graphics/Downloads/Wordmark_Twitter.jpg"/>
+    <h3>by Alex Maladonado</h3>
+    <h2>Downtown Los Angeles</h2>
+    <img src="https://media.nbclosangeles.com/images/652*367/LAFC+home+opener.jpg" />
+    <p><a href="https://en.wikipedia.org/wiki/Los_Angeles_FC" target = "_blank">LAFC</a> The Best Soccer In Los Angeles!</p>
+    
+    <h2>Banc of California Stadium</h2>
+    <img src="https://la-mp7static.mlsdigital.net/styles/image_landscape/s3/images/rsz_bancapppartial-1.jpg?_jrXJfs_pvc0ItDXmucrCQctFYhEKvcL&itok=DqEzqimZ&c=b36ceee9d286f0c0f19f717c726f5d32" />
+    <p></p>
+    <h2>The Ritz</h2>
+    <img src = "https://la-mp7static.mlsdigital.net/elfinderimages/Photos/Stadium%20Clubs/FieldClub/FieldClub1_1400x700.jpg" />
+   
+    <h4>Related Content</h4>
+    <ul>
+      <li>Carlos Vela</li>
+      <li>Los Angeles</li>
+      <li>Major League Soccer</li>
+    </ul>
+    <div id='contact'>
+      <p>
+      <strong>address</strong>: Banc of California Stadium
+Los Angeles, California
+      </p>
+    </div>
+  </body>
+</html>
